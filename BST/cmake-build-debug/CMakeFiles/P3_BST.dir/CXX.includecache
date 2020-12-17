@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/garci/CLionProjects/P3_BST/BST.h
+stdexcept
+-
+string
+-
+
+C:/Users/garci/CLionProjects/P3_BST/p3.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+BST.h
+C:/Users/garci/CLionProjects/P3_BST/BST.h
+p3.h
+C:/Users/garci/CLionProjects/P3_BST/p3.h
+
+C:/Users/garci/CLionProjects/P3_BST/p3.h
+

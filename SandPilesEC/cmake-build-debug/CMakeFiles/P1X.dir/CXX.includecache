@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/garci/CLionProjects/P1X/SandPileX.cpp
+SandPileX.h
+C:/Users/garci/CLionProjects/P1X/SandPileX.h
+
+C:/Users/garci/CLionProjects/P1X/SandPileX.h
+iostream
+-
+
+C:/Users/garci/CLionProjects/P1X/p1x_test.cpp
+iostream
+-
+cmath
+-
+SandPileX.h
+C:/Users/garci/CLionProjects/P1X/SandPileX.h
+p1x_test.h
+C:/Users/garci/CLionProjects/P1X/p1x_test.h
+
+C:/Users/garci/CLionProjects/P1X/p1x_test.h
+

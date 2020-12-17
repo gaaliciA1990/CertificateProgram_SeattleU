@@ -1,0 +1,3 @@
+C:/Users/garci/CLionProjects/P1X/cmake-build-debug/CMakeFiles/P1X.dir
+C:/Users/garci/CLionProjects/P1X/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/garci/CLionProjects/P1X/cmake-build-debug/CMakeFiles/rebuild_cache.dir

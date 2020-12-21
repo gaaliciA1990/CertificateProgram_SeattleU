@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/garci/CLionProjects/P1/SandPile.cpp" "C:/Users/garci/CLionProjects/P1/cmake-build-debug/CMakeFiles/Lab1.dir/SandPile.cpp.obj"
-  "C:/Users/garci/CLionProjects/P1/p1_test.cpp" "C:/Users/garci/CLionProjects/P1/cmake-build-debug/CMakeFiles/Lab1.dir/p1_test.cpp.obj"
+  "C:/Users/garci/Documents/Repo_Git_SU_Projects/SandPiles/SandPile.cpp" "C:/Users/garci/Documents/Repo_Git_SU_Projects/SandPiles/cmake-build-debug/CMakeFiles/Lab1.dir/SandPile.cpp.obj"
+  "C:/Users/garci/Documents/Repo_Git_SU_Projects/SandPiles/p1_test.cpp" "C:/Users/garci/Documents/Repo_Git_SU_Projects/SandPiles/cmake-build-debug/CMakeFiles/Lab1.dir/p1_test.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

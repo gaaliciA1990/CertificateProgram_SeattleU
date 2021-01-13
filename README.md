@@ -15,7 +15,7 @@ Database Systems - 9/9/20-11/24/20
     primary language = SQL/Java
 ------------------------------------------------------------------------------------------------ 
 Object Oriented Concepts - 1/5/21-3/20/21
-    primary langauge = C++
+    primary langauge = Java
 Computing Systems Principles I - 1/5/21-3/20/21
     primary language = C++
 ------------------------------------------------------------------------------------------------

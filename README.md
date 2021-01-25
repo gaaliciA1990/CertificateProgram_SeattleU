@@ -19,8 +19,8 @@ Object Oriented Concepts - 1/5/21-3/20/21
 Computing Systems Principles I - 1/5/21-3/20/21
     primary language = C++
 ------------------------------------------------------------------------------------------------
-Computing Systems Principles I - TBD
-    primary langauge = TBD
+Computing Systems Principles II - TBD
+	 primary langauge = TBD
 Algorithms - TBD
     primary langauge = TBD
 ------------------------------------------------------------------------------------------------

@@ -1,8 +1,10 @@
-Seattle University: Computer Science Fundamentals Graduate Certificate Program
-    https://www.seattleu.edu/scieng/computer-science/certificates/cs-fundamentals/#d.en.109054
-------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------
 This repository serves as a demonstration of my programming skills, as learned through the graduate certificate program at Seatte University. I have compiled all of the projects I completed within the program.
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+Seattle University: Computer Science Fundamentals Graduate Certificate Program 6/22/20 - 6/12/21
+
+    https://www.seattleu.edu/scieng/computer-science/certificates/cs-fundamentals/#d.en.109054
+
 ------------------------------------------------------------------------------------------------
 COURSES
 ------------------------------------------------------------------------------------------------

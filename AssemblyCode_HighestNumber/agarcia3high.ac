@@ -1,0 +1,30 @@
+# HW3 Highest Positive Number
+# Author: Alicia Garcia
+# Version: 1.0
+# Date: 1/31/21
+# This program will prompt a user to enter numbers until 
+# they enter a negative number. Once a negative number is 
+# entered, the highest postive number previously entered is 
+# returned. If no positive numbers are entered, 0 is returned.
+	
+#Variables
+	# r2 : highest positive number
+	# r1 : user input
+	# r3 <- r1 - r3 : used to compare r1 and r2
+
+# This section will ask a user for an input and conduct checks to determine path to follow
+beginLoop:	in r1
+		bgz r1 &check 	# check if r1 > 0, if yes, jump to check
+		bez r1 &beginLoop # check if r1 = 0, if yes, jump to the top again 
+		out r2 		# when r1 < 0, return the highest number stored in r2	
+		.halt			# end the program
+
+# This section will check if r1 is greater than r2
+check: 	sub r3 r1 r2	# subtract r2 from r1
+		bgz r3 &move	# if r3 > 0, jump to move
+		bez r0 &beginLoop # Unconditional check: loop back to the top if r3 <= 0
+
+# This section will assign the value in r1 to r2 when r1 is greater
+move:		and r2 r2 r0 	# set r2 to zero
+		add r2 r2 r1  	# replace r2 with r1
+		bez r0 &beginLoop # Unconditional check: loop back to the top

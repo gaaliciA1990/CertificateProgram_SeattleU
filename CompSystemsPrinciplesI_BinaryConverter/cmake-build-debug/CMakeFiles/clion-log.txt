@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\garci\Documents\Certificate_Program_SU\Winter\Computer_Systems_Principles_I\HW2-BinaryCoverter
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/garci/Documents/Certificate_Program_SU/Winter/Computer_Systems_Principles_I/HW2-BinaryCoverter/cmake-build-debug

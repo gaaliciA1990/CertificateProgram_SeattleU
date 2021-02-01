@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/garci/Documents/Certificate_Program_SU/Winter/Computer_Systems_Principles_I/HW2-BinaryCoverter/hw2.cpp
+iostream
+-
+vector
+-
+limits
+-
+

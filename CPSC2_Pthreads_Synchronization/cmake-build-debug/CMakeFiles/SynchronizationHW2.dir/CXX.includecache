@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/garci/Documents/Certificate_Program_SU/Spring2021/CSPII/Homework/SynchronizationHW2/Synchron.cpp
+iostream
+-
+pthread.h
+-
+vector
+-
+cstring
+-
+exception
+-
+sstream
+-
+thread
+-
+

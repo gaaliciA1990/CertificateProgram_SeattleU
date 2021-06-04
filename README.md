@@ -28,11 +28,11 @@ Computing Systems Principles I - 1/5/21-3/20/21
 
     primary language = C++
 ------------------------------------------------------------------------------------------------
-Computing Systems Principles II - TBD
+Computing Systems Principles II - 3/30/21-6/11/21 
 
-	 primary langauge = TBD
+	 primary langauge = C++
 
-Algorithms - TBD
+Algorithms - 3/30/21-6/11/21 
 
-    primary langauge = TBD
+    primary langauge = Java, Kotlin
 ------------------------------------------------------------------------------------------------

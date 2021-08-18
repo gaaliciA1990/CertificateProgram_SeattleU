@@ -218,7 +218,7 @@ public class Chutes {
       PrintWriter outFile = new PrintWriter(fileWrite);
       
       // Add the name of the winner to the file
-      outFile.println(winnerName)
+      outFile.println(winnerName);
    }
 
    /**
@@ -230,7 +230,7 @@ public class Chutes {
       final int topWinners = 10;   //Max number of players to in the array
       String[] winList; 
       
-      File file = new File(winnerFile)
+      File file = new File(winnerFile);
    }
    
    /**
